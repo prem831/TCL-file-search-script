@@ -1,0 +1,197 @@
+|      |      |      |
+|      |      |      |--- ok2.txt
+|      |      |      |
+|      |      |      |--- work14.tcl
+|      |      |      |
+|      |      |      |--- work13.tcl
+|      |      |      |
+|      |      |      |--- vlsi
+|      |      |      |
+|      |      |      |--- work20.txt
+|      |      |      |
+|      |      |      |--- work2.tcl
+|      |      |      |
+|      |      |      |--- work23.txt
+|      |      |      |
+|      |      |      |--- work23.tcl
+|      |      |      |
+|      |      |      |--- work3.tcl
+|      |      |      |
+|      |      |      |--- work22.tcl
+|      |      |      |
+|      |      |      |--- work19.tcl
+|      |      |      |
+|      |      |      |--- ads.pl
+|      |      |      |
+|      |      |      |--- work22.1.txt
+|      |      |      |
+|      |      |      |--- use
+|      |      |      |
+|      |      |      |--- work16.tcl
+|      |      |      |
+|      |      |      |--- work18.tcl
+|      |      |      |
+|      |      |      |--- output.txt
+|      |      |      |
+|      |      |      |--- ass1.pl
+|      |      |      |
+|      |      |      |--- ok1.txt
+|      |      |      |
+|      |      |      |--- work4.tcl
+|      |      |      |
+|      |      |      |--- work5.tcl
+|      |      |      |
+|      |      |      |--- work15.tcl
+|      |      |      |
+|      |      |      |--- ok.txt
+|      |      |      |
+|      |      |      |--- ok.text
+|      |      |      |
+|      |      |      |--- work1.tcl
+|      |      |      |
+|      |      |      |--- New
+|      |      |      |
+|      |      |      |--- work6.tcl
+|      |      |      |
+|      |      |      |--- work21.tcl
+|      |      |      |
+|      |      |      |--- work10.tcl
+|      |      |      |
+|      |      |      |--- work22.txt
+|      |      |      |
+|      |      |      |--- work8.tcl
+|      |      |      |
+|      |      |      |--- work20.tcl
+|      |      |      |
+|      |      |      |--- work12.tcl
+|      |      |      |
+|      |      |      |--- trail.text
+|      |      |      |
+|      |      |      |--- ok3.txt
+|      |      |      |
+|      |      |      |--- cmos
+|      |      |      |
+|      |      |      |--- work17.tcl
+|      |      |      |
+|      |      |      ,--- work7.tcl
+|      |      |      |      
+|      |      |      |----vlsi
+|      |      |      |      |
+|      |      |      |      |--- Order details - Mi India.pdf
+|      |      |      |      |
+|      |      |      |      |--- fwdtclandlinuxpdf.zip
+|      |      |      |      |
+|      |      |      |      |--- fabrication_layout (1).pdf
+|      |      |      |      |
+|      |      |      |      |--- vlsicircuitdesignprocess-131101061939-phpapp01.pdf
+|      |      |      |      |
+|      |      |      |      |--- 7_PD_Tech_Updates -smrt.pdf
+|      |      |      |      |
+|      |      |      |      |--- 2_PD_Flow -smrt.pdf
+|      |      |      |      |
+|      |      |      |      |--- Transaction Confirmation.pdf
+|      |      |      |      |
+|      |      |      |      |--- 5_PD_Discontinuity -smrt.pdf
+|      |      |      |      |
+|      |      |      |      |--- vcxsrv-64.1.20.0.1.installer.exe
+|      |      |      |      |
+|      |      |      |      |--- Physical_Design_Essential.pdf
+|      |      |      |      |
+|      |      |      |      |--- A to Z List Of Windows CMD Commands _ Command Line Reference.pdf
+|      |      |      |      |
+|      |      |      |      |--- report.pdf
+|      |      |      |      |
+|      |      |      |      |--- electricBinary-9.07.jar
+|      |      |      |      |
+|      |      |      |      |--- electric-9.07.jar
+|      |      |      |      |
+|      |      |      |      |--- Oracle VM VirtualBox User Manual.pdf
+|      |      |      |      |
+|      |      |      |      |--- linuxcommands.pdf
+|      |      |      |      |
+|      |      |      |      |--- lec8.pdf
+|      |      |      |      |
+|      |      |      |      |--- 3_PD_Analysis -smrt.pdf
+|      |      |      |      |
+|      |      |      |      |--- 6_PD_Fabrication -smrt.pdf
+|      |      |      |      |
+|      |      |      |      |--- Transaction Confirmation1.pdf
+|      |      |      |      |
+|      |      |      |      |--- linex-commands.pdf
+|      |      |      |      |
+|      |      |      |      |--- 4_PD_Essentials -smrt.pdf
+|      |      |      |      |
+|      |      |      |      |--- unix_tutorial.pdf
+|      |      |      |      |
+|      |      |      |      |--- electric.log
+|      |      |      |      |
+|      |      |      |      |--- work6.tcl
+|      |      |      |      |
+|      |      |      |      |--- ACFrOgBr-OJ7hgvvhjv.pdf
+|      |      |      |      |
+|      |      |      |      |--- Physical_Design_Essentials.pdf
+|      |      |      |      |
+|      |      |      |      |--- Perl_Programming.pdf
+|      |      |      |      |
+|      |      |      |      |--- unetbootin-windows-661.exe
+|      |      |      |      |
+|      |      |      |      |--- layout (1).pdf
+|      |      |      |      |
+|      |      |      |      ,--- script
+|      |      |      |      |      
+|      |      |      |      |----script
+|      |      |      |      |      |
+|      |      |      |      |      |--- tkbook.pdf
+|      |      |      |      |      |
+|      |      |      |      |      |--- vi cheat sheet design2.pdf
+|      |      |      |      |      |
+|      |      |      |      |      |--- linux commands &book.pdf
+|      |      |      |      |      |
+|      |      |      |      |      |--- vi cheat sheet used in project design1.pdf
+|      |      |      |      |      |
+|      |      |      |      |      |--- tcl_tk_tutorial.pdf
+|      |      |      |      |      |
+|      |      |      |      |      |--- linux brief commands.pdf
+|      |      |      |      |      |
+|      |      |      |      |      ,--- unix_tutorial.pdf
+|      |      |      |      
+|      |      |      |----use
+|      |      |      |      |
+|      |      |      |      |--- english3.txt
+|      |      |      |      |
+|      |      |      |      |--- Oxford_English_Dictionary.txt
+|      |      |      |      |
+|      |      |      |      ,--- wordsEn.txt
+|      |      |      |      
+|      |      |      |----New
+|      |      |      |      |
+|      |      |      |      |--- RRB ALP and Technician Examination.pdf
+|      |      |      |      |
+|      |      |      |      ,--- ok.xlsx
+|      |      |      |      
+|      |      |      |----cmos
+|      |      |      |      |
+|      |      |      |      |--- b4ada1bcbf44fa1ecbb82878fb6122136471.pdf
+|      |      |      |      |
+|      |      |      |      |--- cmos invertor.pdf
+|      |      |      |      |
+|      |      |      |      |--- verilog HDL.pdf
+|      |      |      |      |
+|      |      |      |      |--- assignment6_28.3.2018.pdf
+|      |      |      |      |
+|      |      |      |      |--- assignment8_10.5.2018.pdf
+|      |      |      |      |
+|      |      |      |      |--- Integrated Electronics_ Analog And Digital Circuits And Syst.pdf
+|      |      |      |      |
+|      |      |      |      |--- CMOS_VLSI_Design_A_Circuits_and_Systems_Perspective_4th_edition_by_Weste_and_Harris.pdf
+|      |      |      |      |
+|      |      |      |      |--- Millman Halkias - Integrated Electronics_2.pdf
+|      |      |      |      |
+|      |      |      |      |--- design of analog CMOS intigrated circuits.pdf
+|      |      |      |      |
+|      |      |      |      |--- cmos invertor1.pdf
+|      |      |      |      |
+|      |      |      |      |--- Antenna.Theory.Analysis.and.Design(3rd.Edition).pdf
+|      |      |      |      |
+|      |      |      |      ,--- CMOS-VLSI-design.pdf
+
